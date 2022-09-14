@@ -1,0 +1,2 @@
+Error Log:
+Error 500: Internal Error. 14.09.2022, 15:47 Uhr

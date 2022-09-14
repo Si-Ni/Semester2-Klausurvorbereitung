@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<studierendenListe>
+    <seminargruppe>CS21-2</seminargruppe>
+    <Studierender>
+        <jahrgang>2002</jahrgang>
+        <nachname>Simon Nikolaidis</nachname>
+        <nummer>5002152</nummer>
+    </Studierender>
+    <Studierender>
+        <jahrgang>2003</jahrgang>
+        <nachname>Manuel Martens</nachname>
+        <nummer>5002310</nummer>
+    </Studierender>
+    <Studierender>
+        <jahrgang>2000</jahrgang>
+        <nachname>Jamila Baardsen</nachname>
+        <nummer>5003941</nummer>
+    </Studierender>
+    <studiengang>Informatik</studiengang>
+</studierendenListe>

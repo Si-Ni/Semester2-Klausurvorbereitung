@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.2" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="Mitarbeiter">
+    <void property="adresse">
+     <object class="Adresse">
+      <void property="ort">
+       <string>Leipzig</string>
+      </void>
+      <void property="plz">
+       <string>04319</string>
+      </void>
+      <void property="strasze">
+       <string>Musterweg</string>
+      </void>
+     </object>
+    </void>
+    <void property="geburtstag">
+     <object class="java.util.Date">
+      <long>1392073200000</long>
+     </object>
+    </void>
+    <void property="id">
+     <int>1</int>
+    </void>
+    <void property="kontakte">
+     <object class="java.util.ArrayList">
+      <void method="add">
+       <object class="Mail">
+        <void property="mailAdresse">
+         <string>mailAdresse1@gmail.com</string>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="Telefon">
+        <void property="telefonNummer">
+         <string>015739272891</string>
+        </void>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="name">
+     <string>Nils</string>
+    </void>
+    <void property="passwort">
+     <string>12345678</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Mitarbeiter">
+    <void property="adresse">
+     <object class="Adresse">
+      <void property="ort">
+       <string>Dresden</string>
+      </void>
+      <void property="plz">
+       <string>02135</string>
+      </void>
+      <void property="strasze">
+       <string>Quallenstrasse</string>
+      </void>
+     </object>
+    </void>
+    <void property="geburtstag">
+     <object class="java.util.Date">
+      <long>1392073200000</long>
+     </object>
+    </void>
+    <void property="id">
+     <int>2</int>
+    </void>
+    <void property="kontakte">
+     <object class="java.util.ArrayList">
+      <void method="add">
+       <object class="Mail">
+        <void property="mailAdresse">
+         <string>mailAdresse2@gmx.com</string>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="Telefon">
+        <void property="telefonNummer">
+         <string>01579278378932</string>
+        </void>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void property="name">
+     <string>Luca</string>
+    </void>
+    <void property="passwort">
+     <string>87654321</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
